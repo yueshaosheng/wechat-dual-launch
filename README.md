@@ -1,5 +1,7 @@
 # 微信双开
 
+**简体中文** | [English](README.en.md)
+
 macOS 微信双开脚本，支持中文 / English，可创建或重建 `WeChat2.app`。
 
 ## 适用平台
@@ -10,7 +12,7 @@ macOS 微信双开脚本，支持中文 / English，可创建或重建 `WeChat2.
 
 ## 使用方法
 
-1. 下载并解压仓库，双击 `WeChat-Dual-Launch.command`。
+1. 从 [Releases](https://github.com/yueshaosheng/wechat-dual-launch/releases/latest) 下载并解压安装包，双击 `WeChat-Dual-Launch.command`。
 2. 选择语言：`1` 中文（默认），`2` English。
 3. 输入 `y` 开始，完成后在第二个微信中登录。
 
