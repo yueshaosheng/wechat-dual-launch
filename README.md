@@ -1,5 +1,9 @@
 # 微信双开
 
+![Platform: macOS](https://img.shields.io/badge/platform-macOS-black?logo=apple)
+![Verified WeChat: 4.1.13](https://img.shields.io/badge/WeChat-4.1.13_verified-07C160?logo=wechat&logoColor=white)
+[![Latest release](https://img.shields.io/github/v/release/yueshaosheng/wechat-dual-launch)](https://github.com/yueshaosheng/wechat-dual-launch/releases/latest)
+
 **简体中文** | [English](README.en.md)
 
 macOS 微信双开脚本，支持中文 / English，可创建或重建 `WeChat2.app`。

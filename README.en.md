@@ -1,5 +1,9 @@
 # WeChat Dual Launch
 
+![Platform: macOS](https://img.shields.io/badge/platform-macOS-black?logo=apple)
+![Verified WeChat: 4.1.13](https://img.shields.io/badge/WeChat-4.1.13_verified-07C160?logo=wechat&logoColor=white)
+[![Latest release](https://img.shields.io/github/v/release/yueshaosheng/wechat-dual-launch)](https://github.com/yueshaosheng/wechat-dual-launch/releases/latest)
+
 [简体中文](README.md) | **English**
 
 A macOS script to create or rebuild `WeChat2.app`, with Chinese and English prompts.
